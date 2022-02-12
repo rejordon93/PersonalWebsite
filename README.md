@@ -1,3 +1,1 @@
-First-Website update
-
-https://rejordon93.github.io/PersonalWebsite/
+First-Website update https://rejordon93.github.io/PersonalWebsite/
